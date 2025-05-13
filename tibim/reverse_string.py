@@ -4,9 +4,11 @@
 #         s[:] = s[::-1]
 #         print(s)
 
+
+#De vao class
+
 # r = Reverse()
 # r.refersee(s)
-
 
 
 
