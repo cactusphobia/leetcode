@@ -7,3 +7,6 @@ def tinhtong(nums):
         nums[i] = nums[i] + nums[i-1]
     return nums
 print(tinhtong(nums01))
+
+
+# hhihihih
